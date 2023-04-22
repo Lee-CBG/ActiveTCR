@@ -53,7 +53,7 @@ source activate bap
 An example for `use case a` of ActiveTCR: reducing annotation cost for unlabeled TCR-epitope pools.
 
 ```bash
-python -W ignore git_main.py \
+python -W ignore main.py \
                 --split epi \
                 --active_learning True \
                 --query_strategy entropy_sampling \
@@ -66,7 +66,7 @@ python -W ignore git_main.py \
 An example for `use case b` of ActiveTCR: minimizing redundancy among labeled TCR-epitope pairs.
 
 ```bash
-python -W ignore git_main.py \
+python -W ignore main.py \
                 --split epi \
                 --query_strategy entropy_sampling \
                 --train_strategy retrain \
