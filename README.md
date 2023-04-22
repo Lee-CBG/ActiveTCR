@@ -46,7 +46,7 @@ source activate bap
 
 ### 2. Prepare TCR-epitope pairs for training and testing
 - Download training and testing data from `datasets` folder.
-- Obtain embeddings for TCR and epitopes following instructions from `embedders` folder. Or you can directly download from here (https://www.dropbox.com/s/zkjs8od969rtbzq/catELMo_4_layers_1024.pkl?dl=0).
+- Obtain embeddings for TCR and epitopes following instructions of [`catELMo`](https://github.com/Lee-CBG/catELMo/tree/main/embedders). Or directly download embeddings from [Dropbox](https://www.dropbox.com/s/zkjs8od969rtbzq/catELMo_4_layers_1024.pkl?dl=0).
 
 
 ### 3. Train and test models
