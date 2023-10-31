@@ -13,7 +13,7 @@ ActiveTCR is a unified framework designed to minimize the annotation cost and ma
 Published in: **IEEE BIBM 2023**
 
 
-[Paper](#) | [Code](https://github.com/Lee-CBG/ActiveTCR) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#))
+[Paper](https://arxiv.org/pdf/2310.10893.pdf) | [Code](https://github.com/Lee-CBG/ActiveTCR) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#))
 
 ## Major results of ActiveTCR
 1. **Use case a: reducing more than 40% annotation cost for unlabel TCR-epitope pools.**
