@@ -10,7 +10,7 @@ ActiveTCR is a unified framework designed to minimize the annotation cost and ma
 <b>An Active Learning Framework for Cost-Effective TCR-Epitope Binding Affinity Prediction </b> <br/>
 [Pengfei Zhang](https://github.com/pzhang84)<sup>1,2</sup>, [Seojin Bang](http://seojinb.com/)<sup>3</sup>, [Heewook Lee](https://scai.engineering.asu.edu/faculty/computer-science-and-engineering/heewook-lee/)<sup>1,2, *</sup><br/>
 <sup>1 </sup>School of Computing and Augmented Intelligence, Arizona State University, <sup>2 </sup>Biodesign Institute, Arizona State University, <sup>3 </sup>Google DeepMind <br/>
-Published in: **IEEE BIBM 2023**
+Accepted for publication: **IEEE BIBM 2023**
 
 
 [Paper](https://arxiv.org/pdf/2310.10893.pdf) | [Code](https://github.com/Lee-CBG/ActiveTCR) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#))
